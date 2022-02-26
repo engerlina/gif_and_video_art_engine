@@ -1,0 +1,32 @@
+{
+	 "name":"CeloPunks YouTube test #2",
+	 "description":"i love CeloPunks",
+	 "image":"https://twitter.com/elonmusk/2.gif",
+	 "dna": " 0 1 1 0 1 ",
+	 "edition":"2",
+	 "date":"1645448926",
+	 "attributes": [
+	 	 {
+	 	 	 "trait_type": "1-background",
+	 	 	 "value": "Celo_Gray.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "2-character",
+	 	 	 "value": "Red_Burning_Woman.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "3-head",
+	 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "4-eyes",
+	 	 	 "value": "Nerd_Glasses.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "5-lip",
+	 	 	 "value": "Space_Lipstick.gif"
+	 	 }
+	 ],
+	 "Compiler": "CeloPunks compiler",
+	 "Github Author": "Goldo02"
+}

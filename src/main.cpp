@@ -16,19 +16,18 @@ using namespace std;
 int main()
 {
     srand(time(NULL));
-    const int scale = 240;
+    const int scale = 2000;
     const string outputFormat = "gif";
     const bool randomized = true;
     const bool unique = true;
     vector<int> collectionSize = {5, 6};
     const vector<vector<string>> layerDir = 
     {
-    {"1-background", "2-character", "3-head", "4-eyes", "5-lip"},
-    {"1-background", "2-character", "3-head"}
+    {"1-background", "2-body", "2-chair", "3-heads", "4-mouth", "5-eyes", "6-earphones", "7-Cigarette", "8-headgear", "9-smoke"}
     };
     
-    const string name = "CeloPunks YouTube test";
-    const string description = "i love CeloPunks";
+    const string name = "mferdoods";
+    const string description = "mfer x doodles = mferdood vibes";
     const string image = "https://twitter.com/elonmusk";
     const vector<pair<string,string>> extraMetadata = 
     {

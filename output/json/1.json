@@ -2,13 +2,13 @@
 	 "name":"CeloPunks YouTube test #1",
 	 "description":"i love CeloPunks",
 	 "image":"https://twitter.com/elonmusk/1.gif",
-	 "dna": " 1 0 1 0 1 ",
+	 "dna": " 0 0 0 0 1 ",
 	 "edition":"1",
-	 "date":"1644942600",
+	 "date":"1645448926",
 	 "attributes": [
 	 	 {
 	 	 	 "trait_type": "1-background",
-	 	 	 "value": "Faint_Gold.gif"
+	 	 	 "value": "Celo_Gray.gif"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "2-character",
@@ -16,7 +16,7 @@
 	 	 },
 	 	 {
 	 	 	 "trait_type": "3-head",
-	 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+	 	 	 "value": "Top_Hat.gif"
 	 	 },
 	 	 {
 	 	 	 "trait_type": "4-eyes",

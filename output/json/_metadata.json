@@ -1,0 +1,317 @@
+[
+	{
+		 "name":"CeloPunks YouTube test #1",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/1.gif",
+		 "dna": " 0 0 0 0 1 ",
+		 "edition":"1",
+		 "date":"1645448926",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo_Gray.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top_Hat.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Nerd_Glasses.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space_Lipstick.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #2",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/2.gif",
+		 "dna": " 0 1 1 0 1 ",
+		 "edition":"2",
+		 "date":"1645448926",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo_Gray.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red_Burning_Woman.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Nerd_Glasses.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space_Lipstick.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #3",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/3.gif",
+		 "dna": " 1 0 1 0 1 ",
+		 "edition":"3",
+		 "date":"1645448926",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint_Gold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Nerd_Glasses.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space_Lipstick.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #4",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/4.gif",
+		 "dna": " 0 0 1 1 1 ",
+		 "edition":"4",
+		 "date":"1645448926",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo_Gray.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular_Shades.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space_Lipstick.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #5",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/5.gif",
+		 "dna": " 0 0 0 1 1 ",
+		 "edition":"5",
+		 "date":"1645448926",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo_Gray.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top_Hat.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular_Shades.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space_Lipstick.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #6",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/6.gif",
+		 "dna": " 1 1 1 ",
+		 "edition":"6",
+		 "date":"1645448931",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint_Gold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red_Burning_Woman.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #7",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/7.gif",
+		 "dna": " 0 0 0 ",
+		 "edition":"7",
+		 "date":"1645448931",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo_Gray.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top_Hat.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #8",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/8.gif",
+		 "dna": " 1 0 0 ",
+		 "edition":"8",
+		 "date":"1645448931",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint_Gold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top_Hat.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #9",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/9.gif",
+		 "dna": " 1 1 0 ",
+		 "edition":"9",
+		 "date":"1645448931",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint_Gold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red_Burning_Woman.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top_Hat.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #10",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/10.gif",
+		 "dna": " 1 0 1 ",
+		 "edition":"10",
+		 "date":"1645448931",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint_Gold.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"CeloPunks YouTube test #11",
+		 "description":"i love CeloPunks",
+		 "image":"https://twitter.com/elonmusk/11.gif",
+		 "dna": " 0 0 1 ",
+		 "edition":"11",
+		 "date":"1645448931",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo_Gray.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male_Zombie.gif"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+
+]

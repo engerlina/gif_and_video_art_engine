@@ -1,0 +1,24 @@
+{
+	 "name":"CeloPunks YouTube test #9",
+	 "description":"i love CeloPunks",
+	 "image":"https://twitter.com/elonmusk/9.gif",
+	 "dna": " 1 1 0 ",
+	 "edition":"9",
+	 "date":"1645448931",
+	 "attributes": [
+	 	 {
+	 	 	 "trait_type": "1-background",
+	 	 	 "value": "Faint_Gold.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "2-character",
+	 	 	 "value": "Red_Burning_Woman.gif"
+	 	 },
+	 	 {
+	 	 	 "trait_type": "3-head",
+	 	 	 "value": "Top_Hat.gif"
+	 	 }
+	 ],
+	 "Compiler": "CeloPunks compiler",
+	 "Github Author": "Goldo02"
+}

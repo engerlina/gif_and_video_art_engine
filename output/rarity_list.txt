@@ -1,20 +1,20 @@
 1-background
-Celo_Gray.gif: 27.2727
-Faint_Gold.gif: 72.7273
+Celo_Gray.gif: 54.5455
+Faint_Gold.gif: 45.4545
 
 2-character
-Male_Zombie.gif: 63.6364
-Red_Burning_Woman.gif: 36.3636
+Male_Zombie.gif: 72.7273
+Red_Burning_Woman.gif: 27.2727
 
 3-head
-Top_Hat.gif: 36.3636
-Wallstreetbets_Dark_Crazy_Hair.gif: 63.6364
+Top_Hat.gif: 45.4545
+Wallstreetbets_Dark_Crazy_Hair.gif: 54.5455
 
 4-eyes
-Nerd_Glasses.gif: 18.1818
-Regular_Shades.gif: 27.2727
+Nerd_Glasses.gif: 27.2727
+Regular_Shades.gif: 18.1818
 
 5-lip
-Purple_Lipstick.gif: 27.2727
-Space_Lipstick.gif: 18.1818
+Purple_Lipstick.gif: 0
+Space_Lipstick.gif: 45.4545
 
