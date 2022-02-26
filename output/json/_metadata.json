@@ -1,5 +1,6 @@
 [
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #1",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/1.gif",
@@ -26,6 +27,34 @@
 		 	 {
 		 	 	 "trait_type": "5-lip",
 		 	 	 "value": "Space_Lipstick.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #1", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/1.gif", 
+		 "dna": " 1 0 1 1 1 ",
+		 "edition":"1", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint Gold"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male Zombie"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -33,6 +62,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #2",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/2.gif",
@@ -59,6 +89,34 @@
 		 	 {
 		 	 	 "trait_type": "5-lip",
 		 	 	 "value": "Space_Lipstick.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #2", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/2.gif", 
+		 "dna": " 0 1 1 1 1 ",
+		 "edition":"2", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo Gray"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red Burning Woman"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -66,6 +124,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #3",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/3.gif",
@@ -92,6 +151,34 @@
 		 	 {
 		 	 	 "trait_type": "5-lip",
 		 	 	 "value": "Space_Lipstick.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #3", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/3.gif", 
+		 "dna": " 0 1 1 1 0 ",
+		 "edition":"3", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo Gray"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red Burning Woman"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Purple Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -99,6 +186,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #4",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/4.gif",
@@ -125,6 +213,25 @@
 		 	 {
 		 	 	 "trait_type": "5-lip",
 		 	 	 "value": "Space_Lipstick.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #4", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/4.gif", 
+		 "dna": " 0 0 0 ",
+		 "edition":"4", 
+		 "date":"1645646679",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo Gray"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male Zombie"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top Hat"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -132,6 +239,41 @@
 	}
 	 ,
 	{
+		 "name":"SUrrty Peasy YouTube test #5", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/5.gif", 
+		 "dna": " 1 1 1 0 0 ",
+		 "edition":"5", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint Gold"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red Burning Woman"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Nerd Glasses"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Purple Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #5",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/5.gif",
@@ -158,6 +300,34 @@
 		 	 {
 		 	 	 "trait_type": "5-lip",
 		 	 	 "value": "Space_Lipstick.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #6", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/6.gif", 
+		 "dna": " 0 0 0 1 0 ",
+		 "edition":"6", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo Gray"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male Zombie"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top Hat"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Purple Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -165,6 +335,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #6",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/6.gif",
@@ -183,6 +354,26 @@
 		 	 {
 		 	 	 "trait_type": "3-head",
 		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #7", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/7.gif", 
+		 "dna": " 1 0 1 ",
+		 "edition":"7", 
+		 "date":"1645646679",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint Gold"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male Zombie"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -190,6 +381,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #7",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/7.gif",
@@ -208,6 +400,34 @@
 		 	 {
 		 	 	 "trait_type": "3-head",
 		 	 	 "value": "Top_Hat.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #8", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/8.gif", 
+		 "dna": " 0 0 1 1 0 ",
+		 "edition":"8", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo Gray"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male Zombie"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Purple Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -215,6 +435,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #8",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/8.gif",
@@ -233,6 +454,26 @@
 		 	 {
 		 	 	 "trait_type": "3-head",
 		 	 	 "value": "Top_Hat.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #9", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/9.gif", 
+		 "dna": " 1 0 0 ",
+		 "edition":"9", 
+		 "date":"1645646679",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint Gold"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male Zombie"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top Hat"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -240,6 +481,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #9",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/9.gif",
@@ -258,6 +500,26 @@
 		 	 {
 		 	 	 "trait_type": "3-head",
 		 	 	 "value": "Top_Hat.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #10", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/10.gif", 
+		 "dna": " 0 1 1 ",
+		 "edition":"10", 
+		 "date":"1645646679",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo Gray"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red Burning Woman"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -265,6 +527,7 @@
 	}
 	 ,
 	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #10",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/10.gif",
@@ -283,6 +546,33 @@
 		 	 {
 		 	 	 "trait_type": "3-head",
 		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #11", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/11.gif", 
+		 "dna": " 0 0 1 0 1 ",
+		 "edition":"11", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Celo Gray"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Male Zombie"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Nerd Glasses"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space Lipstick"
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
@@ -290,6 +580,41 @@
 	}
 	 ,
 	{
+		 "name":"SUrrty Peasy YouTube test #12", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/12.gif", 
+		 "dna": " 1 1 1 1 0 ",
+		 "edition":"12", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint Gold"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red Burning Woman"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Purple Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+<<<<<<< HEAD
 		 "name":"CeloPunks YouTube test #11",
 		 "description":"i love CeloPunks",
 		 "image":"https://twitter.com/elonmusk/11.gif",
@@ -308,6 +633,67 @@
 		 	 {
 		 	 	 "trait_type": "3-head",
 		 	 	 "value": "Wallstreetbets_Dark_Crazy_Hair.gif"
+=======
+		 "name":"SUrrty Peasy YouTube test #13", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/13.gif", 
+		 "dna": " 1 1 1 1 1 ",
+		 "edition":"13", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint Gold"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red Burning Woman"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Wallstreetbets Dark Crazy Hair"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Space Lipstick"
+		 	 }
+		 ],
+		 "Compiler": "CeloPunks compiler",
+		 "Github Author": "Goldo02"
+	}
+	 ,
+	{
+		 "name":"SUrrty Peasy YouTube test #14", 
+		 "description":"i love u",
+		 "image":"https://twittercom/elonmusk/14.gif", 
+		 "dna": " 1 1 0 1 0 ",
+		 "edition":"14", 
+		 "date":"1645646677",
+		 "attributes": [
+		 	 {
+		 	 	 "trait_type": "1-background",
+		 	 	 "value": "Faint Gold"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "2-character",
+		 	 	 "value": "Red Burning Woman"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "3-head",
+		 	 	 "value": "Top Hat"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "4-eyes",
+		 	 	 "value": "Regular Shades"
+		 	 },
+		 	 {
+		 	 	 "trait_type": "5-lip",
+		 	 	 "value": "Purple Lipstick"
+>>>>>>> 082542f78e8f9c044958212f12b86920e440fc94
 		 	 }
 		 ],
 		 "Compiler": "CeloPunks compiler",
