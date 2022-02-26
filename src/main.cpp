@@ -23,6 +23,7 @@ int main()
     vector<int> collectionSize = {5, 6};
     const vector<vector<string>> layerDir = 
     {
+    {"1-background", "2-body", "2-chair", "3-heads", "4-mouth", "5-eyes", "6-earphones", "7-Cigarette", "8-headgear", "9-smoke"},
     {"1-background", "2-body", "2-chair", "3-heads", "4-mouth", "5-eyes", "6-earphones", "7-Cigarette", "8-headgear", "9-smoke"}
     };
     
